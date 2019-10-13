@@ -1,0 +1,11 @@
+{
+  "title": "The Map demo - Networking",
+  "description": "Your app fetched this from a remote endpoint!",
+  "signs": [
+    { "id": "001", "latitude": 30.7, "longtitude": 103.98468, "info":"红灯" },
+    { "id": "002", "latitude": 30.7678, "longtitude": 103.9825, "info":"右转" },
+    { "id": "013", "latitude": 30.7567, "longtitude": 103.9878, "info":"左转" },
+    { "id": "024", "latitude": 30.7964, "longtitude": 103.98976, "info":"直行" },
+    { "id": "115", "latitude": 30.7235, "longtitude": 103.98083, "info":"限速60" }
+  ]
+}
